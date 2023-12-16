@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dailydose/static/css/main.073c9b0a.css",
+    "main.js": "/dailydose/static/js/main.623f5663.js",
+    "static/js/787.564644a5.chunk.js": "/dailydose/static/js/787.564644a5.chunk.js",
+    "index.html": "/dailydose/index.html",
+    "main.073c9b0a.css.map": "/dailydose/static/css/main.073c9b0a.css.map",
+    "main.623f5663.js.map": "/dailydose/static/js/main.623f5663.js.map",
+    "787.564644a5.chunk.js.map": "/dailydose/static/js/787.564644a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.623f5663.js"
+  ]
+}
